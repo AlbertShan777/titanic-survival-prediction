@@ -1,0 +1,16 @@
+data/
+artifacts/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+!.env.example
+kaggle.json
+*token*
+*.pem
+*.key
+*.csv
+*.zip
